@@ -4,8 +4,8 @@ export type Title = string;
 export type Price = number;
 
 export interface Product {
-    id: ProductId;
-    image: Image;
-    title: Title;
-    price: Price;
+  id: ProductId;
+  image: Image;
+  title: Title;
+  price: Price;
 }

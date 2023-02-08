@@ -1,19 +1,19 @@
 {
-    "name": "@frontend-clean-architecture/core",
-    "version": "0.1.0",
-    "description": "Frontend Clean Architecture Core, this project contains all reusable entities and logic.",
-    "main": "build/index.js",
-    "repository": "https://github.com/xurxodev/karate-stars-api",
-    "author": "Jorge Sánchez <xurxosf@gmail.com>",
-    "scripts": {
-        "build": "tsc --build",
-        "start": "tsc --watch",
-        "test": "jest"
-    },
-    "dependencies": {},
-    "devDependencies": {
-        "@types/jest": "26.0.19",
-        "jest": "26.6.0",
-        "ts-jest": "26.4.4"
-    }
+  "name": "@frontend-clean-architecture/core",
+  "version": "0.1.0",
+  "description": "Frontend Clean Architecture Core, this project contains all reusable entities and logic.",
+  "main": "build/index.js",
+  "repository": "https://github.com/xurxodev/karate-stars-api",
+  "author": "Jorge Sánchez <xurxosf@gmail.com>",
+  "scripts": {
+    "build": "tsc --build",
+    "start": "tsc --watch",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "26.0.19",
+    "jest": "26.6.0",
+    "ts-jest": "26.4.4"
+  }
 }

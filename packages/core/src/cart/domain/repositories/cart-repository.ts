@@ -1,6 +1,6 @@
-import { Cart } from "../entities/cart";
+import { Cart } from '../entities/cart';
 
 export interface CartRepository {
-    get(): Promise<Cart>;
-    save(cart: Cart): Promise<boolean>;
+  get(): Promise<Cart>;
+  save(cart: Cart): Promise<boolean>;
 }

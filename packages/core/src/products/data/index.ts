@@ -1,1 +1,1 @@
-export * from "./product-in-memory-repository";
+export * from './product-in-memory-repository';

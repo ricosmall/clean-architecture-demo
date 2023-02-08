@@ -1,1 +1,1 @@
-export * from "./bloc";
+export * from './bloc';

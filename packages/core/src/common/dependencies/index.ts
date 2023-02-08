@@ -1,1 +1,1 @@
-export * from "./depencencies-locator";
+export * from './depencencies-locator';
